@@ -90,4 +90,4 @@ Python 3.10+ with `pandas`, `numpy`, `scipy`, `statsmodels`. The collection scri
 
 ## License
 
-Released for academic use. 
+Released for academic use. Add a `LICENSE` file (e.g. MIT) if you want to set explicit reuse terms.

@@ -1,0 +1,61 @@
+query_id,query_text,topic
+1,What’s the most affordable password manager for everyday use?,Price
+2,Which password manager offers the best price-to-value ratio?,Price
+3,Are there any reliable free password managers worth trying?,Price
+4,What’s the cheapest password manager that still syncs across devices?,Price
+5,I’m on a tight budget—what password manager should I choose?,Price
+6,Which password manager has the lowest-cost paid plan that’s still good?,Price
+7,What’s the best budget-friendly password manager for students?,Price
+8,Are freemium password managers safe enough for regular use?,Price
+9,Which low-cost password manager offers the most features?,Price
+10,What’s a good password manager if I want to pay as little as possible?,Price
+11,Which password manager has the best long-term pricing?,Price
+12,What affordable password manager works well for families?,Price
+13,Are there any cheap password managers with unlimited device sync?,Price
+14,What’s an inexpensive password manager for someone switching from paper passwords?,Price
+15,Which password manager offers good value without requiring an annual subscription?,Price
+16,What’s the best low-cost option for someone managing lots of passwords?,Price
+17,Which password manager gives the most features for the least money?,Price
+18,What password manager should I choose if price matters most?,Price
+19,Are there any trustworthy password managers with free tiers?,Price
+20,What’s the most cost-effective password manager overall?,Price
+21,Which password manager has the strongest security features?,Security
+22,I need a zero-knowledge password manager—any suggestions?,Security
+23,What’s the most secure password manager for storing sensitive information?,Security
+24,Which password manager is best for privacy-focused users?,Security
+25,Which password manager has the best encryption standards?,Security
+26,What’s the safest password manager for preventing data breaches?,Security
+27,Which password manager is recommended for maximum privacy?,Security
+28,I want a password manager that’s extremely secure—what should I pick?,Security
+29,Which password manager handles encryption and data protection best?,Security
+30,What’s the best password manager for someone worried about hackers?,Security
+31,Which password manager has the most trustworthy security architecture?,Security
+32,I need a highly secure password manager for work—any recommendations?,Security
+33,Which password manager is best for protecting financial or medical data?,Security
+34,What password manager offers the best zero-knowledge guarantee?,Security
+35,Which password manager has the best track record for avoiding breaches?,Security
+36,Which password manager provides the most advanced security tools?,Security
+37,What’s the safest password manager for storing important personal documents?,Security
+38,Which password manager is best if privacy is my top priority?,Security
+39,What secure password manager should I use for business accounts?,Security
+40,Which password manager is the most trusted by security experts?,Security
+41,What’s the best password manager for families who need to share logins?,Fit/Use
+42,Which password manager works best for Mac and iPhone users?,Fit/Use
+43,What’s the easiest password manager for beginners to learn?,Fit/Use
+44,Which password manager is best for small business teams?,Fit/Use
+45,I want a password manager with great cross-device compatibility—what’s best?,Fit/Use
+46,What’s a good password manager for someone managing accounts across many devices?,Fit/Use
+47,Which password manager has the most user-friendly interface?,Fit/Use
+48,What’s the best password manager for organizing hundreds of logins?,Fit/Use
+49,Which password manager is easiest for older or less tech-savvy people?,Fit/Use
+50,What password manager works best for Android users?,Fit/Use
+51,What’s the best password manager for teams collaborating remotely?,Fit/Use
+52,Which password manager is best for travelers who switch devices often?,Fit/Use
+53,What password manager should I use if I need strong sharing features?,Fit/Use
+54,What’s the best password manager for people who mainly use laptops?,Fit/Use
+55,Which password manager has the smoothest onboarding for new users?,Fit/Use
+56,What’s the best password manager for managing work and personal accounts together?,Fit/Use
+57,Which password manager works best for parents helping kids manage passwords?,Fit/Use
+58,What password manager is best for syncing passwords across multiple OS platforms?,Fit/Use
+59,Which password manager is easiest to use for someone switching from browser autofill?,Fit/Use
+60,What password manager is best overall for daily use and convenience?,Fit/Use
